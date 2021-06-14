@@ -19,7 +19,7 @@ Bernoli, Gaussian, and Poisson noises were added to the raw images
 ![Alt text](noisy.jpg?raw=true "noisy image 1")
 ![Alt text](out.jpg?raw=true "refined image 1")
 
-PSNR has been improved from 9 to 17
+PSNR has been improved from 9.49 to 16.30
 
 
 ![Alt text](mnist-noisy.jpg?raw=true "noisy image 2")
